@@ -18,3 +18,5 @@ M Diwakar https://github.com/magician03
 Souvik Sen https://github.com/invokesus
 
 [Himanshu Shekhar](https://github.com/himanshub16)
+
+[Faheem Hassan Zunjani](https://github.com/faheemzunjani)
