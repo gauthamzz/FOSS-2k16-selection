@@ -20,4 +20,6 @@ Last Date and Time : 8 PM, 17 April, 2016
 
 [Himanshu Shekhar](https://github.com/himanshub16)
 
+
 [Faheem Hassan Zunjani](https://github.com/faheemzunjani)
+[Ayushi Asthana](https://github.com/a-asthana)
