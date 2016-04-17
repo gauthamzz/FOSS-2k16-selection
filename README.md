@@ -24,3 +24,5 @@ Last Date and Time : 8 PM, 17 April, 2016
 [Faheem Hassan Zunjani](https://github.com/faheemzunjani)
 
 [Ayushi Asthana](https://github.com/a-asthana)
+
+[Chinmoy Das](https://github.com/chinmoy159-1)
