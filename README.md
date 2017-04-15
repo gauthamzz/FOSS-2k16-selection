@@ -8,23 +8,23 @@ Last Date and Time : 8 PM, 17 April, 2016
 
 [Names](githubprofilelink) 
 -----------------------
-[Mubaris Hassan] (https://github.com/mubumbz)
 
-[Aditya Dewan] (https://github.com/dewana-dewan)
+[Mubaris Hassan](https://github.com/mubumbz)
 
-[Deepak Kumar Yadav] (https://github.com/yDeepak1889)
+[Aditya Dewan](https://github.com/dewana-dewan)
 
-[M Diwakar] (https://github.com/magician03)
+[Deepak Kumar Yadav](https://github.com/yDeepak1889)
 
-[Souvik Sen] (https://github.com/invokesus)
+[M Diwakar](https://github.com/magician03)
+
+[Souvik Sen](https://github.com/invokesus)
 
 [Himanshu Shekhar](https://github.com/himanshub16)
-
 
 [Faheem Hassan Zunjani](https://github.com/faheemzunjani)
 
 [Ayushi Asthana](https://github.com/a-asthana)
 
-[Tanisha Keshri] (https://github.com/tanisha-keshri)
+[Tanisha Keshri](https://github.com/tanisha-keshri)
 
 [Chinmoy Das](https://github.com/chinmoy159-1)
