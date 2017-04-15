@@ -1,6 +1,6 @@
 # FOSS-2k16-selection
 
-###FOSS member selections for B2k15 IIIT-Allahabad
+### FOSS member selections for B2k15 IIIT-Allahabad
 
 Everyone interested for FOSS society in GeekHaven 2016-17 add your names(include link to your GitHub profile) to the list and send pull requests.
 
